@@ -50,7 +50,24 @@
 	
 	"moreappsgrid":[
 	
-			
+			{
+						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
+						"name":"BIG WORMS",
+						"type":"install"
+					},
+		{
+						"picture":"https://cdn.statically.io/img/cdn6.aptoide.com/superpocket/63d2c590c537f9d73ce6b384244ef300_icon.png",
+						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
+						"name":"Final fights",
+						"type":"install"
+					},
+		{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
+						"name":"64 GAMES in 1 App",
+						"type":"install"
+					}
 				
 	]
         
